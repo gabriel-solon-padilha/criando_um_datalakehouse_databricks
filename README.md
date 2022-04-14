@@ -28,4 +28,4 @@ Datalakehouse foi criado todo com notebooks do databricks e usando pyspark e koa
 - data_lakehouse_project :arrow_right: notebooks databricks que foram usados para criar o datalakehouse
 - csv_tables :arrow_right: tabelas do database northwind que serão usadas no projeto e devem ser carregadas no databricks
 - images :arrow_right: imagens de squema do database e do datawerehouse
-- html_notebooks :arrow_right: notebooks databricks que foram usados para criar o datalakehouse porém em formato HTML para abrir pelo próprio navegador
+- notebooks_html :arrow_right: notebooks databricks que foram usados para criar o datalakehouse porém em formato HTML para abrir pelo próprio navegador
